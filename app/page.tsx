@@ -341,7 +341,7 @@ export default function SupportPage() {
                   {/* Info */}
                   <div className="flex-1 min-w-0">
                     <h1 className="text-lg sm:text-xl font-bold text-stone-900 truncate">
-                      Б.Сод-Од
+                      М.Ганцоож
                     </h1>
                     <p className="text-sm text-stone-500 mt-0.5 line-clamp-5">
                     Зөвхөн Ууганоюун д үйлчлэн 1 үнсэлт 5 мянга
