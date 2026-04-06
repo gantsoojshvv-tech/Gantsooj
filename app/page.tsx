@@ -341,10 +341,10 @@ export default function SupportPage() {
                   {/* Info */}
                   <div className="flex-1 min-w-0">
                     <h1 className="text-lg sm:text-xl font-bold text-stone-900 truncate">
-                      М.Ганцоож
+                      Б.Сод-Од
                     </h1>
                     <p className="text-sm text-stone-500 mt-0.5 line-clamp-5">
-                     1 үнсэлт 5мянга
+                    Зөвхөн Ууганоюун д үйлчлэн 1 үнсэлт 5 мянга
                     </p>
                     <div className="flex flex-wrap gap-1.5 mt-2.5">
                       {process.env.NEXT_PUBLIC_YOUTUBE_URL && (
@@ -395,7 +395,7 @@ export default function SupportPage() {
                     <div className="flex items-center gap-3">
                       <div>
                         <h2 className="text-lg font-bold text-white">
-                          Зөвхөн Ууганоюун үйлчлүүлэх боломжтой
+                          Намайг үнсэж урамшуулаарай
                         </h2>
                         <p className="text-xs text-stone-400">
                           Buy Me a Coffee
@@ -550,7 +550,7 @@ export default function SupportPage() {
               {recentSupporters.length === 0 ? (
                 <div className="text-center py-8 text-stone-400">
                   <Heart className="w-8 h-8 mx-auto mb-2 opacity-30" />
-                  <p className="text-sm">Одоогоор дэмжигч байхгүй байна</p>
+                  <p className="text-sm">Одоогоогоор Ууганоюун үнсээгүй байна. </p>
                   <p className="text-xs mt-1">Та эхний дэмжигч болоорой!</p>
                 </div>
               ) : (
@@ -617,7 +617,8 @@ export default function SupportPage() {
         <footer className="px-5 py-8 border-t border-stone-200/60">
           <div className="max-w-6xl mx-auto text-center">
             <div className="flex items-center justify-center gap-2 mb-2">
-              <span className="font-bold text-stone-600 text-sm"
+              <span className="font-bold text-stone-600 text-sm">
+                Developed by <Link href="https://www.facebook.com/profile.php?id=61587474767550" target="_blank">@Gantsooj</Link>
               </span>
             </div>
           </div>
