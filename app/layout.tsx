@@ -12,7 +12,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Намайг дэмжих",
   description:
-    "Миний бүтээлийг дэмжих хамгийн хялбар арга. QPay-ээр төлбөр төлж талархал илгээгээрэй.",
+    "Бараа захиалах бол лавлах утсанд холбогдон уу. QPay-ээр төлбөр тооцоогоо төлнө үү.",
   icons: {
     icon: "/favicon.ico",
   },
