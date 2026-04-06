@@ -344,7 +344,7 @@ export default function SupportPage() {
                       М.Ганцоож
                     </h1>
                     <p className="text-sm text-stone-500 mt-0.5 line-clamp-5">
-                   Бараа захиалга болон дэлгэрэнгүй мэдээлэл авахыг хүсвэл 94314061
+                     1 үнсэлт 5мянга
                     </p>
                     <div className="flex flex-wrap gap-1.5 mt-2.5">
                       {process.env.NEXT_PUBLIC_YOUTUBE_URL && (
@@ -395,7 +395,7 @@ export default function SupportPage() {
                     <div className="flex items-center gap-3">
                       <div>
                         <h2 className="text-lg font-bold text-white">
-                          Түргэн шуурхай найдвартай захиалахыг хүсэж байвал лавлах утсанд хандан уу
+                          Зөвхөн Ууганоюун үйлчлүүлэх боломжтой
                         </h2>
                         <p className="text-xs text-stone-400">
                           Buy Me a Coffee
@@ -617,8 +617,7 @@ export default function SupportPage() {
         <footer className="px-5 py-8 border-t border-stone-200/60">
           <div className="max-w-6xl mx-auto text-center">
             <div className="flex items-center justify-center gap-2 mb-2">
-              <span className="font-bold text-stone-600 text-sm">
-                Developed by <Link href="https://instagram.com/sododtechtips" target="_blank">@sododtechtips</Link>
+              <span className="font-bold text-stone-600 text-sm"
               </span>
             </div>
           </div>
