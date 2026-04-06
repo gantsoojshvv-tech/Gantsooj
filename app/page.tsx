@@ -550,7 +550,7 @@ export default function SupportPage() {
               {recentSupporters.length === 0 ? (
                 <div className="text-center py-8 text-stone-400">
                   <Heart className="w-8 h-8 mx-auto mb-2 opacity-30" />
-                  <p className="text-sm">Одоогоогоор Ууганоюун үнсээгүй байна. </p>
+                  <p className="text-sm">Одоогоор Ууганоюун үнсээгүй байна. </p>
                   <p className="text-xs mt-1">Та эхний дэмжигч болоорой!</p>
                 </div>
               ) : (
