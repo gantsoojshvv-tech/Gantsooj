@@ -398,7 +398,7 @@ export default function SupportPage() {
                           Намайг үнсэж урамшуулаарай
                         </h2>
                         <p className="text-xs text-stone-400">
-                          Buy Me a Coffee
+                          Хайртайжүү хайлаа ммай
                         </p>
                       </div>
                     </div>
