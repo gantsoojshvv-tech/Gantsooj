@@ -395,7 +395,7 @@ export default function SupportPage() {
                     <div className="flex items-center gap-3">
                       <div>
                         <h2 className="text-lg font-bold text-white">
-                          Манай контенуудыг дэмжээрэй
+                          Түргэн шуурхай найдвартай захиалахыг хүсэж байвал лавлах утсанд хандан уу
                         </h2>
                         <p className="text-xs text-stone-400">
                           Buy Me a Coffee
